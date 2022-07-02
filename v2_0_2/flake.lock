@@ -65,7 +65,7 @@
         "figures": "figures",
         "flakeNimbleLib": "flakeNimbleLib",
         "nixpkgs": "nixpkgs",
-        "src-openurl-main": "src-openurl-main"
+        "src-openurl-v2_0_2": "src-openurl-v2_0_2"
       }
     },
     "src-figures-v1_2_0": {
@@ -85,19 +85,19 @@
         "type": "github"
       }
     },
-    "src-openurl-main": {
+    "src-openurl-v2_0_2": {
       "flake": false,
       "locked": {
-        "lastModified": 1656684537,
-        "narHash": "sha256-5XIoDk+sxRylZr1VWQrx/z2A0b263WRSBgleH3q4UiY=",
+        "lastModified": 1656666537,
+        "narHash": "sha256-z0laVlWSlOyn9//ihnXTlFKWqa9tRtoJynt8nkM4UMI=",
         "owner": "foxoman",
         "repo": "openurl",
-        "rev": "900bde0516fb451d8e296e564345e5572c47eb4f",
+        "rev": "598936c2a86104e676a81c48839defacfb3b83a3",
         "type": "github"
       },
       "original": {
         "owner": "foxoman",
-        "ref": "refs/heads/main",
+        "ref": "refs/tags/v2.0.2",
         "repo": "openurl",
         "type": "github"
       }
